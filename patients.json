@@ -1,0 +1,33 @@
+{
+    "P001":
+{
+    "name":"Syed Ali",
+    "age": 30,
+    "gender": "Male",
+    "city": "Karachi",
+    "medical_history": ["Diabetes", "Hypertension"]
+  },
+  "P002": {
+    "name": "Ayesha Khan",
+    "age": 25,
+    "gender": "Female",
+    "city": "Lahore",
+    "medical_history": ["Asthma"]
+},
+"P003": {
+    "name": "Ravi Kumar",
+    "age": 35,
+    "gender": "Male",
+    "city": "Delhi",
+    "medical_history": ["Heart Disease"]
+},
+
+"P004":{
+    "name": "Syed Tabib Ashraf",
+    "age": 25,
+    "gender": "Male",
+    "city": "Faizabad",
+    "medical_history": ["Anemia"]
+}
+
+}
